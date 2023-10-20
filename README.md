@@ -8,11 +8,13 @@ Für dieses Semester werde ich hauptsäclich an den Modulen arbeiten, mit denen 
   [x] Algorithmen abbilden: LA_319_6901_AlgorithmenAbbilden.docx
   [x] Variablen und Konstante: LA_319_6904_VariablenKonstante.docx
   [x] Opperatoren: LA_319_6905_Opperatoren.docx
-In der heutigen Stunde konnte ich einiges erledigen. Ich habe sogar mehr geschafft, als dass ich mir vorgenommen habe. Ich hab neben den drei Aufgaben die ich mir gegeben habe noch zwei weitere gemacht. Ich fand es gut, dass ich mir nach den Ferien nur diese Aufgaben gegeben habe, so konnte ich wieder in meinem Tempo in die ganze Sache reinkommen. (61 Wörter)
+In der heutigen Stunde konnte ich einiges erledigen. Ich habe die drei Aufgaben die ich mir gestellt erledigt und bin sehr gut mit der Zeit durchgekommen. Ich habe sogar mehr geschafft, als dass ich mir vorgenommen habe. Ich habe neben den drei Aufgaben die ich mir gegeben habe noch zwei weitere gemacht. Ich fand es gut, dass ich mir nach den Ferien nur diese Aufgaben gegeben habe, so konnte ich wieder in meinem Tempo in die ganze Sache reinkommen. (79 Wörter)
 
 ## 27.10.23
   [ ] Anfang Dino-Game (Ideen Sammeln)
   [ ] Beginnen zu programmieren
-  [ ] Mit dem neuen Modul beginnen
+  [ ] Einarbeiten in das neue Modul
+  [ ] Mindestens eine Aufgabe für das neue Modul
+  
   
 
