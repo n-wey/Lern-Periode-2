@@ -9,3 +9,9 @@ Für dieses Semester werde ich hauptsäclich an den Modulen arbeiten, mit denen 
   [x] Variablen und Konstante: LA_319_6904_VariablenKonstante.docx
   [ ] Opperatoren: LA_319_6905_Opperatoren.docx
 
+## 27.10.23
+  [ ] Anfang Dino-Game (Ideen Sammeln)
+  [ ] Beginnen zu programmieren
+  [ ] Mit dem neuen Modul beginnen
+  
+
