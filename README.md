@@ -6,6 +6,6 @@ Für dieses Semester werde ich hauptsäclich an den Modulen arbeiten, mit denen 
   [ ] Dino-Game
 ## 20.10.2023
   [x] Algorithmen abbilden: LA_319_6901_AlgorithmenAbbilden.docx
-  [ ] Variablen und Konstante: LA_319_6904_VariablenKonstante.docx
+  [x] Variablen und Konstante: LA_319_6904_VariablenKonstante.docx
   [ ] Opperatoren: LA_319_6905_Opperatoren.docx
 
