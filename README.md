@@ -18,8 +18,13 @@ In der heutigen Stunde konnte ich einiges erledigen. Die drei Aufgaben die ich m
 In diesem Arbeitsblock konnte ich nicht alle meine gesetzten Ziele erreichen, weil ich meine Prioritäten auf das Modul 319 gesetzt habe, da die Abgabe diesen Sonntag ist. Trotzdem konnte ich drei Aufträge vom Modul abschliessen. Für das nächste mal nehme ich mir sicher vor mit dem Dinogame zu beginnen, da ich dann keine Module mehr zum erledigen habe. Neben dem Modul 319 konnte ich ja mit ihnen noch den Random-NumberGuesser fertig stellen nach so langer Zeit. Nochmals vielen Dank dafür. (80 Wörter) 
 
 ## Bis 3.11.23
-  [ ] Anfang Dino-Game 
-  [ ] Toutorials anschauen
+  [x] Anfang Dino-Game 
+  [x] Toutorials anschauen
+  [ ] Beginnen zu Programmieren
+In dieser Woche habe ich viele Toutorials angeschaut, die mir beim Programmieren für das Dino-Game helfen sollen, aber ich habe keine guten Videos gefunden, die mir wirklich beim Programmieren helfen würden. Ausserdem habe ich auch keine Websites gefunden, die mir dabei helfen können. Weil ich dann nicht wusste, wie ich weiter machen soll, habe ich dann am Dienstag meine Informatikhausaufgaben für das Modul 162 gemacht und am Donnerstag habe ich an meinen neuen Hausaufgaben für das Modul 162 gelöst. Heute habe ich mich nochmals auf die Suche nach einem Tourtorial gemacht, habe aber immer noch nichts gefunden. Ich werde in der kommenden Woche weiter nach Toutorials suchen. (107 Wörter)
+
+## 10.11.23
+  [ ] weiter nach toutorials suchen
   [ ] Beginnen zu Programmieren
 
 
