@@ -19,12 +19,12 @@ In diesem Arbeitsblock konnte ich nicht alle meine gesetzten Ziele erreichen, we
 
 ## Bis 3.11.23
   [x] Anfang Dino-Game 
-  [x] Toutorials anschauen
+  [x] Tutorials anschauen
   [ ] Beginnen zu Programmieren
-In dieser Woche habe ich viele Toutorials angeschaut, die mir beim Programmieren für das Dino-Game helfen sollen, aber ich habe keine guten Videos gefunden, die mir wirklich beim Programmieren helfen würden. Ausserdem habe ich auch keine Websites gefunden, die mir dabei helfen können. Weil ich dann nicht wusste, wie ich weiter machen soll, habe ich dann am Dienstag meine Informatikhausaufgaben für das Modul 162 gemacht und am Donnerstag habe ich an meinen neuen Hausaufgaben für das Modul 162 gelöst. Heute habe ich mich nochmals auf die Suche nach einem Tourtorial gemacht, habe aber immer noch nichts gefunden. Ich werde in der kommenden Woche weiter nach Toutorials suchen. (107 Wörter)
+In dieser Woche habe ich viele Tutorials angeschaut, die mir beim Programmieren für das Dino-Game helfen sollen, aber ich habe keine guten Videos gefunden, die mir wirklich beim Programmieren helfen würden. Ausserdem habe ich auch keine Websites gefunden, die mir dabei helfen können. Weil ich dann nicht wusste, wie ich weiter machen soll, habe ich dann am Dienstag meine Informatikhausaufgaben für das Modul 162 gemacht und am Donnerstag habe ich an meinen neuen Hausaufgaben für das Modul 162 gelöst. Heute habe ich mich nochmals auf die Suche nach einem Turtorial gemacht, habe aber immer noch nichts gefunden. Ich werde in der kommenden Woche weiter nach Tutorials suchen. (107 Wörter)
 
 ## 10.11.23
-  [ ] weiter nach toutorials suchen
+  [ ] weiter nach Tutorials suchen
   [ ] Beginnen zu Programmieren
 
 
