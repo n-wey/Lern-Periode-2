@@ -26,7 +26,13 @@ In dieser Woche habe ich viele Tutorials angeschaut, die mir beim Programmieren 
 ## 10.11.23
   [ ] weiter nach Tutorials suchen
   [ ] Beginnen zu Programmieren
+Heute konnte ich nicht an meinen Arbeitspaketen arbeiten, weil ich am Programmierprojekt weitergearbeitet habe. Ich kam eigentlich gut voran und konnte auch das erledigen was ich wollte. Da wir heute das Gespräch mit Frau Klink zu ihren Anforderungen hatte, habe ich hauptsächlich damit gearbeitet. Ich habe meine Notizen vom Gespräch zusammengefasst und in eine Form umgewandelt, dass man das auch lesen will und sich nicht denkt: "Boah was ist das" Ausserdem habe ich unser Gespräch in unserer Github-Dokumentation festgehalten. Dazu habe ich mich auch für drei Aktien für unser Wertpapierportfolio entschieden, die den Ansprüchen von Frau Klink entsprechen. (98 Wörter)
 
+## Bis 17.11.23
+  [ ] Am Wertpapierportfolio weiter machen (Das heisst meinen Teil der Planung erledigen.)
+  [ ] Ich werde mir zum Dino-Game einfach Java-Turtorials anschauen und diese dann umdenken in C# (Probably funktioniert das ja)
+  [ ] Wenn das mit den Turtorials klappt, kann ich dann hoffentlich endlich beginnen zu Programmieren
+  [ ] Wenn es mit der Java-Übersetzung nicht klappt, werde ich einfach an dem Modul 162 weiter machen (Einfach das aufarbeiten, was ich im Unterricht nicht gemacht habe)
 
 
 
