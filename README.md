@@ -29,11 +29,12 @@ In dieser Woche habe ich viele Tutorials angeschaut, die mir beim Programmieren 
 Heute konnte ich nicht an meinen Arbeitspaketen arbeiten, weil ich am Programmierprojekt weitergearbeitet habe. Ich kam eigentlich gut voran und konnte auch das erledigen was ich wollte. Da wir heute das Gespräch mit Frau Klink zu ihren Anforderungen hatte, habe ich hauptsächlich damit gearbeitet. Ich habe meine Notizen vom Gespräch zusammengefasst und in eine Form umgewandelt, dass man das auch lesen will und sich nicht denkt: "Boah was ist das" Ausserdem habe ich unser Gespräch in unserer Github-Dokumentation festgehalten. Dazu habe ich mich auch für drei Aktien für unser Wertpapierportfolio entschieden, die den Ansprüchen von Frau Klink entsprechen. (98 Wörter)
 
 ## Bis 17.11.23
-  [ ] Am Wertpapierportfolio weiter machen (Das heisst meinen Teil der Planung erledigen.)
-  [ ] Ich werde mir zum Dino-Game einfach Java-Turtorials anschauen und diese dann umdenken in C# (Probably funktioniert das ja)
+  [x] Am Wertpapierportfolio weiter machen (Das heisst meinen Teil der Planung erledigen.)
+  [x] Ich werde mir zum Dino-Game einfach Java-Turtorials anschauen und diese dann umdenken in C# (Probably funktioniert das ja)
   [ ] Wenn das mit den Turtorials klappt, kann ich dann hoffentlich endlich beginnen zu Programmieren
   [ ] Wenn es mit der Java-Übersetzung nicht klappt, werde ich einfach an dem Modul 162 weiter machen (Einfach das aufarbeiten, was ich im Unterricht nicht gemacht habe)
 
+In dieser Woche habe ich am Wertpapierportfolio weitergearbeitet. Da es in unserer Gruppe nicht sehr gut vorankommt, habe ich es einfach selber in die Hand genommen. Diese Woche habe ich mich daran versucht selber einen Code zu schreiben. (Mit der Hilfe von ChatGPT natürlich) Ich habe ChatGPT nach einem Code gefragt, welcher das Programm mit Daten aus dem Internet verbinden kann. Da dieser Code natürlich noch nicht funktioniert, habe ich versucht, diesen umzuschreiben und zu verbessern, damit dieser funktioniert. Bisher ohne Erfolg. Ausserdem habe ich einige neue Turtorials angeschaut. Für Java habe ich nicht so viel gefunden aber für Python gab es viele Ergebnise. Also habe ich mir einfach mal ein paar dieser Turtorials reingezogen. Ich habe auch noch ChatGPT um Hilfe gfragt. ChatGPT hat mir wieder ein Programm ausgegeben, welches nicht funktionierte, also habe ich versucht dieses zu korrigieren aber manche Fehler lassen sich nicht verbessern. Während ich nach infos zum Dino Game gesucht habe, ist mir eingefallen, dass ich mir auf meinem neuen Computer, Unity noch nicht heruntergeladen habe, also habe ich das auch noch nachgeholt. Nach so ein paar gescheiterten Versuchen, habe ich mich dann dazu entschieden eine Pause von diesem rojekt zu nehem, also habe ich mich wieder dem Modul 162 gewidmet und dazu habe ich auch zwei aufgearbeitete Aufträge vom Modul 162 auf Github hochgeladen.   (220 Wörter)
 
 
 
