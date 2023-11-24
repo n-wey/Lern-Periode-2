@@ -38,9 +38,9 @@ In dieser Woche habe ich am Wertpapierportfolio weitergearbeitet. Da es in unser
 
 
 ## 24.11.23
+  [x] Mein teil des Programmierprojekts erledigen
   [ ] Modul 162 (Probably gibts ja Hausaufgaben)
   [ ] Modul 162 lernen und aufarbeiten
-  [ ]
 
   
   
