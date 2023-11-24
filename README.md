@@ -38,9 +38,16 @@ In dieser Woche habe ich am Wertpapierportfolio weitergearbeitet. Da es in unser
 
 
 ## 24.11.23
-  [x] Mein teil des Programmierprojekts erledigen
-  [ ] Modul 162 (Probably gibts ja Hausaufgaben)
-  [ ] Modul 162 lernen und aufarbeiten
+  [x] Mein Teil des Programmierprojekts erledigen
+  [x] Modul 162 (Probably gibts ja Hausaufgaben)
+  [x] Modul 162 lernen und aufarbeiten
+
+Heute konnte ich alle meine Arbeitspakete erledigen. Beim Programmierprojekt musste ich gottseidank nicht mehr so viel machen, weil ich diesen Montag krank war und sie ihre Arbeit schon gemacht haben. Ich musste nur den Eintrag in die Dokumentation machen, was sie diesen Montag gemacht haben. Ausserdem musste ich auch wegen dem Projekt noch eine Teamsnachricht an Frau Klink schreiben, um etwas mit ihr abzuklären. Nachdem ich das gemacht haben, habe ich mich dem Modul 162 gewidmet. Zuerst habe ich mich noch mal mit dem Thema der Entität und der Attribute beschäftigt, weil ich im Unterricht bei diesem Thema nicht ganz nachgekommen bin. Jetzt habe ich das aber auch verstanden. Ich habe das zuerst gemacht, weil unsere Hausaufgaben, welche ich heute auch erledigen konnte sich um Entitäten und Attribute handelte. Jetzt woo ich es verstanden habe, waren die Aufgaben eigentlich recht einfach.
+  
+
+## 1.12.23
+  # [ ] 
+
 
   
   
