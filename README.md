@@ -46,8 +46,8 @@ Heute konnte ich alle meine Arbeitspakete erledigen. Beim Programmierprojekt mus
   
 
 ## 1.12.23
-  [ ] Das nächste mal werde ich mich noch mal mit dem Konzeptionellen und dem Logischen Datenmodell beschäftigen, nur zur sicherheit, dass ich das wirklich verstanden habe.
-  [ ] Ausserdem werden, im Modul 162 wir vermutlich nächste Woche mit dem relationalen Datenmodel starten, da ich das vermutlich auch nicht auf den ersten Anhieb verstanden werde, werde ich mich nochmals        damit beschäftigen.
+  [ ] Ich widme mich mal der ersten Aufgabe vom Advent of Code
+  [ ] Ausserdem werden, im Modul 162 wir vermutlich nächste Woche mit dem relationalen Datenmodel starten, da ich das vermutlich auch nicht auf den ersten Anhieb verstehen werde, werde ich mich nochmals         damit beschäftigen.
   [ ] Ich werde den Rest des Themas den ich noch nicht verstanden habe, nochmals anschauen.
 
 
