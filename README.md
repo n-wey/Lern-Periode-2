@@ -46,9 +46,16 @@ Heute konnte ich alle meine Arbeitspakete erledigen. Beim Programmierprojekt mus
   
 
 ## 1.12.23
-  [ ] Ich widme mich mal der ersten Aufgabe vom Advent of Code
-  [ ] Ausserdem werden, im Modul 162 wir vermutlich nächste Woche mit dem relationalen Datenmodel starten, da ich das vermutlich auch nicht auf den ersten Anhieb verstehen werde, werde ich mich nochmals         damit beschäftigen.
-  [ ] Ich werde den Rest des Themas den ich noch nicht verstanden habe, nochmals anschauen.
+  [x] Ich widme mich mal der ersten Aufgabe vom Advent of Code
+  [x] Ausserdem werden, im Modul 162 wir vermutlich nächste Woche mit dem relationalen Datenmodel starten, da ich das vermutlich auch nicht auf den ersten Anhieb verstehen werde, werde ich mich nochmals         damit beschäftigen.
+  [x] Ich werde den Rest des Themas den ich noch nicht verstanden habe, nochmals anschauen.
+
+Heute habe ich zu beginn des Lernateliers mal an der ersten Aufgabe vom Advent of Code gearbeitet. Das war wirklich eine Knobelarbeit und ich habe dann nach der Pause auch nicht mehr weiter gemacht, weil ich noch für die Informatikprüfung diesen Mittwoch lernen wollte. Jetzt mit ihrer Erklärung im Call, werde ich nachher noch mal weiter daran arbeiten. In der letzten Stunde habe ich jetzt noch am relationalen Datenmodel gearbeitet, so dass ich es jetzt verstanden habe, denn letzten Mittwoch war ich noch relativ überfordert mit diesem Thema, haha. Ich habe dann auch noch ein paar andere Dinge vom Modul 162 angeschaut, bei denen ich den Kniff noch nicht ganz raus hatte. (112 Wörter)
+
+## Bis 8.12.23
+  [ ] Ich werde an der ersten Aufgabe vom Advent of Code arbeiten.
+  [ ] Falls ich die erste Aufgabe schaffe, dann werde an der zweiten Aufgabe arbeiten.
+  [ ] Ich habe letztens ein Tutorial gesehen, wo jemand so programmiert hat, dass sich der Mauszeiger so von selbst bewegt und so und das werde ich versuchen nachzu programmieren. (Ich werde das aber            nicht für die selben Zwecke brauchen wie diese Person, haha)
 
 
   
