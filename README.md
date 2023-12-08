@@ -53,9 +53,11 @@ Heute konnte ich alle meine Arbeitspakete erledigen. Beim Programmierprojekt mus
 Heute habe ich zu beginn des Lernateliers mal an der ersten Aufgabe vom Advent of Code gearbeitet. Das war wirklich eine Knobelarbeit und ich habe dann nach der Pause auch nicht mehr weiter gemacht, weil ich noch für die Informatikprüfung diesen Mittwoch lernen wollte. Jetzt mit ihrer Erklärung im Call, werde ich nachher noch mal weiter daran arbeiten. In der letzten Stunde habe ich jetzt noch am relationalen Datenmodel gearbeitet, so dass ich es jetzt verstanden habe, denn letzten Mittwoch war ich noch relativ überfordert mit diesem Thema, haha. Ich habe dann auch noch ein paar andere Dinge vom Modul 162 angeschaut, bei denen ich den Kniff noch nicht ganz raus hatte. (112 Wörter)
 
 ## Bis 8.12.23
-  [ ] Ich werde an der ersten Aufgabe vom Advent of Code arbeiten.
-  [ ] Falls ich die erste Aufgabe schaffe, dann werde an der zweiten Aufgabe arbeiten.
-  [ ] Ich habe letztens ein Tutorial gesehen, wo jemand so programmiert hat, dass sich der Mauszeiger so von selbst bewegt und so und das werde ich versuchen nachzu programmieren. (Ich werde das aber            nicht für die selben Zwecke brauchen wie diese Person, haha)
+  -[x] Ich werde an der ersten Aufgabe vom Advent of Code arbeiten.
+  -[x] Ich werde meinen Portfoliobeitrag für das Modul 162 abschliessen
+  -[x] Ich habe letztens ein Tutorial gesehen, wo jemand so programmiert hat, dass sich der Mauszeiger so von selbst bewegt und so und das werde ich versuchen nachzu programmieren. (Ich werde das aber            nicht für die selben Zwecke brauchen wie diese Person, haha)
+
+Diese Woche habe ich am meisten Zeit für den Portfoliobeitrag für das Modul 162 aufgewendet.Ich konnte es am Mottwoch Abend fertig schreiben und habe dieses dann auch abgegeben. Ausserdem musste ich für diesen Auftrag auch eine Excel-Tabelle auswerten und bearbeiten. Auch das habe ich am Mittwoch abgegeben. Ich habe an der heutegen Aufgabe vom Advent of Code gearbeitet, aber habe diese nicht fertig bekommen. Am Montag und am Dienstag habe ich ein kleines Programm geschrieben mit dem sich der Mauszeiger von selber bewegt. (83 Wörter)
 
 
   
