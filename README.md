@@ -60,10 +60,15 @@ Heute habe ich zu beginn des Lernateliers mal an der ersten Aufgabe vom Advent o
 Diese Woche habe ich am meisten Zeit für den Portfoliobeitrag für das Modul 162 aufgewendet.Ich konnte es am Mottwoch Abend fertig schreiben und habe dieses dann auch abgegeben. Ausserdem musste ich für diesen Auftrag auch eine Excel-Tabelle auswerten und bearbeiten. Auch das habe ich am Mittwoch abgegeben. Ich habe an der heutegen Aufgabe vom Advent of Code gearbeitet, aber habe diese nicht fertig bekommen. Am Montag und am Dienstag habe ich ein kleines Programm geschrieben mit dem sich der Mauszeiger von selber bewegt. (83 Wörter)
 
 ## 15.12.23
-  - [ ] Nacholen, was ich in den Stunden vom Montag nicht geschafft habe
-  - [ ] Nachholen, was ich in den Stunden vom Mittwoch nicht geschafft habe.
+  - [x] Nacholen, was ich in den Stunden vom Montag nicht geschafft habe
+  - [x] Nachholen, was ich in den Stunden vom Mittwoch nicht geschafft habe.
   - [ ] An den Arbeitsaufträgen von Modul 162 arbeiten
 
+Heute habe ich erneut an den Aufgaben der Module gearbeitet. Als Arbeitspakete wollte ich ja die Aufträge dieser Woche nachholen und das habe ich auch gemacht. Für das Modul habe ich die Aufgabe "Datensätze Hinzufügen" gemacht. Das war eine Aufgabe vom Modul 164, dieser Woche. Vom Modul 117 habe ich die Aufgaben zu Kabel und Steker bearbeitet. Ich hatte eigentlich am Montag bereits Zeit für diese Aufgaben, aber ich habe mich dazu entschieden diese lieber an einem anderen Tag zu machen, weil ich am Montag nicht so aufnahmefähig war. (89 Wörter)
+
+## 22.12.23
+ - [ ] Nachholen, was ich in den Stunden vom Modul 117 nicht geschafft habe.
+ - [ ] Nachholen, was ich in den Stunden vom Modul 164 nicht geschafft habe. 
   
   
 
