@@ -1,6 +1,6 @@
 # Lern-Periode-2
 
-## Grobplanung für das Semester
+## Grobplanung für die zweite Lern-Periode
 Für dieses Semester werde ich hauptsächlich an den Modulen arbeiten, mit denen wir arbeiten. Ich habe gemerkt, dass ich bei den jetzigen Modulen sehr knapp war mit der Zeit und das will ich für dieses Quartal vermeiden. Auch trotz meiner Arbeit an den Modulen, will ich natürlich programmieren. Ich weiss noch nicht zu 100% was ich programmieren will aber vielleicht will ich das Dinogame von Google Chrome nach programmieren. Das wollte ich schon mega lang machen und jetzt habe ich endlich mal die Möglichkeit dazu daran zu arbeiten, ohne dass mir die Zeit für etwas anderes fehlt. Aber es soll ein Konsolengame bleiben, da ich diesen Retrostyle recht mag. (109 Wörter) 
  - [ ] Module
  - [ ] Dino-Game
