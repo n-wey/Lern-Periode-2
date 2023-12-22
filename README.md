@@ -67,8 +67,13 @@ Diese Woche habe ich am meisten Zeit für den Portfoliobeitrag für das Modul 16
 Heute habe ich erneut an den Aufgaben der Module gearbeitet. Als Arbeitspakete wollte ich ja die Aufträge dieser Woche nachholen und das habe ich auch gemacht. Für das Modul habe ich die Aufgabe "Datensätze Hinzufügen" gemacht. Das war eine Aufgabe vom Modul 164, dieser Woche. Vom Modul 117 habe ich die Aufgaben zu Kabel und Steker bearbeitet. Ich hatte eigentlich am Montag bereits Zeit für diese Aufgaben, aber ich habe mich dazu entschieden diese lieber an einem anderen Tag zu machen, weil ich am Montag nicht so aufnahmefähig war. (89 Wörter)
 
 ## 22.12.23
- - [ ] Nachholen, was ich in den Stunden vom Modul 117 nicht geschafft habe.
- - [ ] Nachholen, was ich in den Stunden vom Modul 164 nicht geschafft habe. 
+ - [x] Nachholen, was ich in den Stunden vom Modul 117 nicht geschafft habe.
+ - [x] Nachholen, was ich in den Stunden vom Modul 164 nicht geschafft habe. 
   
-  
+Heute habe ich die das nachgeholt, was ich in den Modulstunden dieser Woche nicht geschafft habe. Ich wollte das noch machen, weil ich nicht in das neue Jahr/ Semester starten wollte mit mega vielen, alten Aufgaben. Zum Modul 117 habe ich den Auftrag zu den Netzwerkplänen erledigt den ich am Montag nicht geschafft habe. Im Modul 164 habe ich die Aufgaben, TextDatentypen und ZahlenDatentypen bearbeitet. 
+(65 Wörter)
+
+# Zusammenfassung vom Jahr 2023
+
+Die Aufgabe war zwar, dass wir mehrere Meilensteine unseres Semester in diesem Text erwähnen oder andersgesagt aufgreifen sollten, aber ehrlich gesagt hatte ich gar nicht so viele Meilensteine, die ich erreicht habe. Das einzige Spezielle, was ich erreicht habe in diesem Semester ist der Random Number Guesser. Dafür ist das für mich ein sehr grosser Meilestein, weil das, das erste ist was ich jemals programmiert habe und vermutlich bleibt es auch meine letzte Sache, da ich die IMS ja abbreche und eine Lehre machen werde in richtung Soziale Arbeit. In diesem Semester habe ich einfach nicht mehr programmiert, weil ich einerseits mit den Modulen voll beschäftigt war, aber auch weil mir die Motivation mit der Zeit einfach wegblieb. (118 Wörter)
 
