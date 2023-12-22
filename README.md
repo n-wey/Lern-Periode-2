@@ -77,3 +77,5 @@ Heute habe ich die das nachgeholt, was ich in den Modulstunden dieser Woche nich
 
 Die Aufgabe war zwar, dass wir mehrere Meilensteine unseres Semester in diesem Text erwähnen oder andersgesagt aufgreifen sollten, aber ehrlich gesagt hatte ich gar nicht so viele Meilensteine, die ich erreicht habe. Das einzige Spezielle, was ich erreicht habe in diesem Semester ist der Random Number Guesser. Dafür ist das für mich ein sehr grosser Meilestein, weil das, das erste ist was ich jemals programmiert habe und vermutlich bleibt es auch meine letzte Sache, da ich die IMS ja abbreche und eine Lehre machen werde in richtung Soziale Arbeit. In diesem Semester habe ich einfach nicht mehr programmiert, weil ich einerseits mit den Modulen voll beschäftigt war, aber auch weil mir die Motivation mit der Zeit einfach wegblieb. (118 Wörter)
 
+Eigentlich hätten wir ja auch ein Programm hochladen müssen, aber ich habe gerade bemerkt, dass Visual Studio bei mir nicht mehr funktioniert. Es zeigt an, dass der Lizenzschlüssel abgelaufen ist. Jetzt habe ich keinen Zugriff mehr und kann nichts hochladen.
+
