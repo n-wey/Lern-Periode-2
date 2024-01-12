@@ -2,7 +2,7 @@
 
 ## Grobplanung für die zweite Lern-Periode
 Für dieses Semester werde ich hauptsächlich an den Modulen arbeiten, mit denen wir arbeiten. Ich habe gemerkt, dass ich bei den jetzigen Modulen sehr knapp war mit der Zeit und das will ich für dieses Quartal vermeiden. Auch trotz meiner Arbeit an den Modulen, will ich natürlich programmieren. Ich weiss noch nicht zu 100% was ich programmieren will aber vielleicht will ich das Dinogame von Google Chrome nach programmieren. Das wollte ich schon mega lang machen und jetzt habe ich endlich mal die Möglichkeit dazu daran zu arbeiten, ohne dass mir die Zeit für etwas anderes fehlt. Aber es soll ein Konsolengame bleiben, da ich diesen Retrostyle recht mag. (109 Wörter) 
- - [ ] Module
+ - [x] Module
  - [ ] Dino-Game
 ## 20.10.2023
  - [x] Algorithmen abbilden: LA_319_6901_AlgorithmenAbbilden.docx
@@ -70,7 +70,7 @@ Heute habe ich erneut an den Aufgaben der Module gearbeitet. Als Arbeitspakete w
  - [x] Nachholen, was ich in den Stunden vom Modul 117 nicht geschafft habe.
  - [x] Nachholen, was ich in den Stunden vom Modul 164 nicht geschafft habe. 
   
-Heute habe ich die das nachgeholt, was ich in den Modulstunden dieser Woche nicht geschafft habe. Ich wollte das noch machen, weil ich nicht in das neue Jahr/ Semester starten wollte mit mega vielen, alten Aufgaben. Zum Modul 117 habe ich den Auftrag zu den Netzwerkplänen erledigt den ich am Montag nicht geschafft habe. Im Modul 164 habe ich die Aufgaben, TextDatentypen und ZahlenDatentypen bearbeitet. 
+Heute habe ich das nachgeholt, was ich in den Modulstunden dieser Woche nicht geschafft habe. Ich wollte das noch machen, weil ich nicht in das neue Jahr/ Semester starten wollte mit mega vielen, alten Aufgaben. Zum Modul 117 habe ich den Auftrag zu den Netzwerkplänen erledigt den ich am Montag nicht geschafft habe. Im Modul 164 habe ich die Aufgaben, TextDatentypen und ZahlenDatentypen bearbeitet. 
 (65 Wörter)
 
 # Zusammenfassung vom Jahr 2023
